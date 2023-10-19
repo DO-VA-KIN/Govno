@@ -1,0 +1,8 @@
+B:\Projects\mitr\mitr\bin\Debug\mitr.exe.config
+B:\Projects\mitr\mitr\bin\Debug\mitr.exe
+B:\Projects\mitr\mitr\bin\Debug\mitr.pdb
+B:\Projects\mitr\mitr\obj\Debug\mitr.csproj.AssemblyReference.cache
+B:\Projects\mitr\mitr\obj\Debug\mitr.csproj.SuggestedBindingRedirects.cache
+B:\Projects\mitr\mitr\obj\Debug\mitr.csproj.CoreCompileInputs.cache
+B:\Projects\mitr\mitr\obj\Debug\mitr.exe
+B:\Projects\mitr\mitr\obj\Debug\mitr.pdb
